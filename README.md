@@ -1,6 +1,13 @@
-Reproduced with slight changes.
+## Acknowledgments
 
-Original repository: © https://github.com/abhijitmishra/Thought2Text
+This repository is based on the work by [Abhijit Mishra](https://github.com/abhijitmishra) and collaborators in the [Thought2Text](https://github.com/abhijitmishra/Thought2Text) project.
+
+Original Paper: [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](https://arxiv.org/pdf/2410.07507v1)
+
+Original Codebase: https://github.com/abhijitmishra/Thought2Text
+
+Only minor changes and adaptations have been made in this version. All credit for the core implementation goes to the original authors.
+
 
 How to Reproduce:
 1. First clone the above-mentioned repository in the working directory.
