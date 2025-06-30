@@ -10,6 +10,7 @@ How to Reproduce:
 4. Run the following command for EEG Encoder alignment with CLIP embeddings: 
 python train_eeg_classifier.py --eeg_dataset data/block/eeg_55_95_std.pth --splits_path data/block/block_splits_by_image_all.pth --output ./eeg_encoder_55-95_40_classes --image_dir data/images/
 5. Run the following fine-tuning command: 
+
 python finetune_llm.py \
     --eeg_dataset data/block/eeg_55_95_std.pth \
     --splits_path data/block/block_splits_by_image_all.pth \
@@ -19,7 +20,9 @@ python finetune_llm.py \
     --llm_backbone_name_or_path "deepseek-ai/deepseek-llm-7b-base" \
     --load_in_8bit \
     --bf16
+
 6. For inference:
+
 python inference.py \
     --model_path "deepseek_eeg_model_7B_base/" \
     --eeg_dataset data/block/eeg_55_95_std.pth \
