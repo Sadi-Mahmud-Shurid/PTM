@@ -9,7 +9,7 @@ Original Codebase: https://github.com/abhijitmishra/Thought2Text
 Only minor changes and adaptations have been made in this version. All credit for the core implementation goes to the original authors.
 
 
-How to Reproduce:
+## How to Reproduce:
 1. First clone the above-mentioned repository in the working directory.
 2. Download the data from the following link and store it in the same directory: https://drive.google.com/drive/folders/1XqV6MMl28iYXkQBMEFHfEXllGmCbqpOu
 3. Run the following command to install all the dependencies: pip install -r requirements.txt 
