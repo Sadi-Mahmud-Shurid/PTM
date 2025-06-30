@@ -11,7 +11,7 @@ Only minor changes and adaptations have been made in this version. All credit fo
 
 How to Reproduce:
 1. First clone the above-mentioned repository in the working directory.
-2. Download the data from this link and store it in the same directory.
+2. Download the data from the following link and store it in the same directory: https://drive.google.com/drive/folders/1XqV6MMl28iYXkQBMEFHfEXllGmCbqpOu
 3. Run the following command to install all the dependencies: pip install -r requirements.txt 
 (Note that the program might prompt you to install different versions than the one mentioned in the requirements.txt, follow the prompt in that case otherwise, the program runs into error in later stages)
 4. Run the following command for EEG Encoder alignment with CLIP embeddings: 
