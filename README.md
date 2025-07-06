@@ -8,8 +8,6 @@ Department of Telecommunications and Artificial Intelligence, Budapest Universit
 ## 📑 Table of Contents
 - 📢 [News](https://github.com/Sadi-Mahmud-Shurid/PTM.git)
 - ⚡ [How to Reproduce](#how-to-reproduce)
-- 📁 [Directory Structure](#directory-structure)
-- 📜 [Citation](#citation)
 - 🙏 [Acknowledgments](#acknowledgments)
 
 ---
