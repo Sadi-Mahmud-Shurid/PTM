@@ -89,5 +89,3 @@ To run the evaluation, execute the `metrics_based_evaluation_notebook`.
 This repository builds upon and extends the excellent work by Abhijit Mishra and collaborators in the Thought2Text project.
 
 💻 Foundational Codebase: [github.com/abhijitmishra/Thought2Text](https://github.com/abhijitmishra/Thought2Text.git)
-
-Only minor changes and adaptations have been made in this version. All credit for the core implementation goes to the original authors.
