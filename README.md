@@ -6,13 +6,10 @@ with Multimodal LLMs and Semantic Control </h1>
 Department of Telecommunications and Artificial Intelligence, Budapest University of Technology and Economics, Budapest, Hungary
 
 ### 📑 Table of Contents
-- 📢 [News](https://github.com/Sadi-Mahmud-Shurid/PTM.git)
 - ⚡ [How to Reproduce](#how-to-reproduce)
 - 🙏 [Acknowledgments](#acknowledgments)
 
 ---
-
-## News
 
 ## How to Reproduce
 
