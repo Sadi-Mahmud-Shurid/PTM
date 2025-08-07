@@ -53,6 +53,7 @@ python train_eeg_classifier.py \
     --image_dir data/images/
 ```
 5️⃣ Fine-Tune LLM
+
 Run the fine-tuning script to align EEG representations with the chosen LLM backbone (DeepSeek-LLM 7B in this example):
 
 ```bash
